@@ -1,0 +1,8 @@
+-> Get movies list from movies.txt and store it to arraylist
+-> Choose the movie name randomly from arraylist
+-> Give instruction about the game.
+-> Display to user with _ of non-space letters
+-> Ask the user to enter letters
+-> implement while to enter until chances and word to guess
+-> if user correctly guess the letter, put the letter into label or decrement the lives
+-> win the game if user guessed all the letter correctly within the lifespan Otherwise lose the game
